@@ -564,7 +564,8 @@ nav ul li a:hover {
     }
 
     .container3 .box {
-        margin-left: 0; 
+        margin-left: 0;
+        float: none;
     }
 
     .container3 .box2 {
